@@ -11,11 +11,32 @@ SS is an assistant professor of the School of Electrical Engineering and Compute
 
 Current Students
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Qinxuan Shi, PhD student in Computer Science, University of North Dakota, Jan. 2024 - Present (BE, Nanjing University; MS, University of Florida) 
+* Zhanglong Yang, PhD student in Computer Science, University of North Dakota, Jan. 2024 - Present (BS, University of Electronic Science and Technology of China)
+* Brian Terry, PhD student in Computer Science, University of North Dakota, Jan.2024- Present (BS, University of Georgia; ME, University of Georgia; MS, University of West Georgia)
+* Ali Haidar, PhD student in Computer Science, University of North Dakota, Aug. 2024 - Present (MS, Arizona State University) 
+* Desmond Ejimbo Amadigwe, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Hood College)
+* Preeti Choubey, PhD student in Computer Science, University of North Dakota, Jan. 2025 - Present (MS, Boston University)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+News
+======
+* **11/2024** Dr. Shao (*PI*) received the Early Career Scholars Program funding from UND VPRED.
+* **11/2024** One paper accepted to IEEE ICCC 2024. 
+* **10/2024** One paper accepted to IEEE ECICE 2024. 
+* **09/2024** Two papers accepted to IEEE CARS 2024.
+* **08/2024** Dr. Shao (*Co-PI*) received Industry University Cooperative Research Center planning grant from NSF.
+* **07/2024** One paper accepted to DDDAS 2024.
+* **01/2024** Dr. Shao (*PI*) received SARJ funding through NSF EPSCoR RII Track-2 FEC award from USA/NSF .
+* **10/2023** Three papers accepted to AICCSA 2023.
+* **09/2023** One paper accepted to IEEE UEMCON 2023.
+* **08/2023** One paper accepted to ICMLA 2023.
+* **08/2023** Dr. Shao joined SEECS at UND as Tenure-Track Assistant Professor.
 
-Getting started
+      
+
+<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -46,4 +67,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

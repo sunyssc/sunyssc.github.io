@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sicong Shao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Grand Forks, ND, USA"
+  employer         : "University of North Dakota"
+  uri              : "https://campus.und.edu/directory/sicong.shao"
+  email            : "sicong.shao@und.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
