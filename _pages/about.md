@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-SS is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering.
+SS is an assistant professor of the School of Electrical Engineering and Computer Science at the University of North Dakota (UND). Before joining UND, he was a research assistant professor in the Department of Electrical and Computer Engineering (ECE) at the University of Arizona where he also received his Ph.D. in ECE.  His research interests include cybersecurity, machine learning, artificial intelligence, and software engineering. Dr. Shao founded the Intelligent Software and System Security Lab (ISSSL), which is dedicated to advancing cutting-edge research in software and system security and AI-assisted cybersecurity techniques.
+
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$ -->
+
+$${\color{red}I \space am \space actively \space seeking \space graduate \space students \space joining \space my \space lab \space working \space with \space me. \space If \space you \space are \space interested, \space please 
+\space feel \space free \space to \space contact \space me.}$$
+
 
 Current Students
 ======
@@ -23,7 +29,7 @@ News
 * **11/2024** Dr. Shao (PI) received the Early Career Scholars Program award from UND VPRED.
 * **11/2024** One paper accepted to IEEE ICCC 2024. 
 * **10/2024** One paper accepted to IEEE ECICE 2024. 
-* **10/2024** Dr. Shao servered as Co-Chair of IEEE CARS 2024. 
+* **10/2024** Sicong servered as Co-Chair of IEEE CARS 2024. 
 * **08/2024** Two papers accepted to IEEE CARS 2024.
 * **08/2024** Dr. Shao (Co-PI) received Industry University Cooperative Research Center planning grant from NSF.
 <!-- * **08/2024** Dr. Shao was invited to server as Technical Program Committee (TPC) member at the IEEE HOST 2025. -->
