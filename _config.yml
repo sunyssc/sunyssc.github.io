@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sicong Shao"
 description              : &description "personal description"
 url                      : https://sunyssc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "sunyssc/sunyssc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "SS"
+  name             : "Sicong Shao"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of School of Electrical Engineering and Computer Science, University of North Dakota"
+  bio              : "Assistant Professor in the School of Electrical Engineering and Computer Science at UND \ sicong.shao@und.edu"
   location         : "Grand Forks, ND, USA"
   employer         : "University of North Dakota"
   uri              : "https://campus.und.edu/directory/sicong.shao"
